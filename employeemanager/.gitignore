@@ -28,3 +28,7 @@ target
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+# Build files
+src/main/resources/public
+src/main/resources/frontend/employeemanager-front/node
